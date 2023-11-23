@@ -50,7 +50,6 @@ sections:
       username: admin
     design:
       columns: '1'
-
   - block: collection
     id: featured
     content:
