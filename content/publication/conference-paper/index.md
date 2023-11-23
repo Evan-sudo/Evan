@@ -1,5 +1,5 @@
 ---
-title: 'Soft-ACK based Outer Loop Link Adaptation for Latency-constrained 5G Video Conferencing'
+title: "Soft-ACK based Outer Loop Link Adaptation for Latency-constrained 5G Video Conferencing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
