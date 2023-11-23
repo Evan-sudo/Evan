@@ -112,7 +112,7 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2021-11-25'
-          description: '3rd Prize & Synopsys honored prize'
+          description: '3rd prize & Synopsys honored prize'
           icon: 
           organization: SocChina
           organization_url: http://www.socchina.net
