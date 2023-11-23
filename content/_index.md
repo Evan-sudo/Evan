@@ -228,10 +228,9 @@ sections:
       text: |-
         {{< gallery album="demo" >}}
       count: 5
-      # Filter on criteria
       filters:
         folders:
-          - post
+          - demo
     design:
       columns: '1'
   # - block: contact
