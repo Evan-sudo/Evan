@@ -27,7 +27,7 @@ tags:
 featured: True
 
 links:
-- name: Custom Link
+# - name: Custom Link
   # url: http://example.org
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/Evan-sudo/Soft-ACK-based-Outer-Loop-Link-Adaptation-for-Latency-constrained-5G-Video-Conferencing'
