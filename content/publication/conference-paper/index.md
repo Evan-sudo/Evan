@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Soft-ACK based Outer Loop Link Adaptation for Latency-constrained 5G Video Conferencing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -24,8 +24,8 @@ doi: ''
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
 
-# # Publication name and optional abbreviated publication name.
-# publication: In *Hugo Blox Builder Conference*
+# Publication name and optional abbreviated publication name.
+publication: In *GlobeCom*
 # publication_short: In *ICW*
 
 abstract: The high reliability and low latency requirements of multimedia services necessitate the design of more efficient link adaptation methods. In this paper, we introduce instantaneous channel state information (CSI) reporting, specifically designed for 5G video conferencing, and enhance the outer loop link adaptation based on soft Acknowledgement (Soft-ACK). We also formulate a resource allocation problem in 5G physical downlink shared channel (PDSCH) to balance the uplink and downlink traffic in compliance with the specified latency constraints. Our proposed scheme operates in a relatively straightforward manner. It outperforms conventional link adaptation methods regarding Block-Level Error Rate (BLER) and effectively adheres to stringent latency constraints in video transmission simulations.
