@@ -3,7 +3,7 @@
 title: 刘牧凡
 
 # Name pronunciation (optional)
-name_pronunciation: Mufan Liu
+name_pronunciation: Evan
 
 # Full name (for SEO)
 first_name: Mufan
@@ -39,7 +39,7 @@ education:
     - course: PhD in Electrical Engineering
       institution: Shanghai Jiao Tong University
     - course: BSc in Communication Engineering
-      institution: Unversity of Electronic Science and Technology of China
+      institution: University of Electronic Science and Technology of China
       year: 2019
 
 # Skills
@@ -101,5 +101,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mufan Liu is a PhD student at CMIC, Shanghai Jiao Tong University. He is currently jointly supervised by Prof. Yilin Xu at SJTU, China and Prof. Le Yang at University of Canterbury, New Zealand. His research interests include adaptiive streaming, video coding, reinforcement learning and cross-layer design.
 {style="text-align: justify;"}

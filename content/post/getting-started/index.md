@@ -1,110 +1,27 @@
 ---
-title: Welcome to Hugo Blox Builder, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: '2020-12-13T00:00:00Z'
-
-# Date updated
-lastmod: '2020-12-13T00:00:00Z'
-
-# Is this an unpublished draft?
-draft: false
-
-# Show this page in the Featured widget?
-featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
+title: 困难的开头
+date: 2023-07-21
 
 authors:
-  - admin
-  - 吳恩達
+  - Evan
 
 tags:
-  - Academic
-  - 开源
+  - Emo
+  - Feelings
 
-categories:
-  - Demo
-  - 教程
 ---
 
-```python
-import libr
-print('hello')
-```
 
-## Overview
+印象里，这是我高三以后第一次有了想要再次写日记的冲动…. 回顾大学四年，身边的人来来往往，经历也算比较丰富。但因为自己不再有提笔的耐心，很多值得被记录的事情也就成为脑中闪过的一念。
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+7月21日，这是我大学毕业以后第一个注定要被我铭记的日子。 早上，怀着不舍的心情送对象上了大巴车，转身我就朝着一条偏僻的小巷子里去，那里是我这一周多以来可以短暂逃离上海的地方。我努力的让自己哭出来，把自己这一段时间的孤独，对未来的不安，以及委屈感，一并的倾洒出来。我知道对象是一个不善于分享内心活动的人，所以在第一时间，我还是选择了把自己的情绪，表达给了妈妈。一直以来在这样关键的时候，都是她和爸爸一起给了我力量。
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
+妈妈说“只有恋爱脑才能理解恋爱脑”。
 
-## Get Started
+“把一切都交给时间，你最后都能走的很好”
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://hugoblox.com/updates/)
+“你能这么想是很正常的。妈妈理解你，但是也给不了你方法，希望你有事能多分享”
 
-## Crowd-funded open-source software
+非常庆幸自己的爸爸妈妈在有困难的时候，总是先理解我，并且承认我的不容易。我内心其实知道他们的不容易远要比我这个20出头的人多的多的多。但是他们的话总是能够给我十足的安全感，让我感受到家的温暖。只要这个世界上还有他们的声音，我就不会去放弃自己。
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://hugoblox.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Hugo Academic CLI](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://hugoblox.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://docs.hugoblox.com/page-builder/) and [**elements**](https://docs.hugoblox.com/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/content/writing-markdown-latex/), [**Jupyter**](https://docs.hugoblox.com/import/jupyter/), or [**RStudio**](https://docs.hugoblox.com/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
+可能是刚毕业就马不停蹄奔赴上海的缘故，在毕业的那天我并没有太多的离愁别绪。来到交大以后，很快的就给自己找各种活干，设法不让自己闲下来。学长学姐都是很好相处的人，老师也是比较放养的类型。这里是一个相对自由的读博环境，我没有理由去讨厌这里。 但最近的我确实多少对于自己的学业有了一些抵抗和反触。没有学习的动力，甚至不仅是学习，生活中的很多事情，在现在的我眼中，都缺少以前的那种激情。这种感觉很神奇，它像是一种焦虑，一种不安，也像是一种孤独和无力感。自己喜欢的另一半，在不久的将来也要和自己分隔两国，未来遥遥无期。 这种感觉有些熟悉，像是小时候将要离开熟悉的家去异地读初中的自己。那会每天心里只想着爸爸妈妈，有时候因为爸爸妈妈没有接上自己的电话，竟然也会难受到哭泣，并在第二天一早醒来就打电话给外婆。是的，多少都是与亲密之人分隔的一种不安与孤独感。人是在不断长大，可是人生来所具有的一些本性，却是不会变化的。只是在不同的阶段有着不同的表现罢了。
