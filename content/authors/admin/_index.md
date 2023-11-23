@@ -52,14 +52,14 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: MATLAB
+        description: ''
+        percent:80
+        icon: 
+        icon_pack: fas
+      - name: Chat-GPT
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
         icon: database
         icon_pack: fas
   - name: Hobbies
