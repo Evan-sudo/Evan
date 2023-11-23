@@ -101,5 +101,5 @@ social:
 highlight_name: true
 ---
 
-Mufan Liu is a PhD student at CMIC, Shanghai Jiao Tong University. He is currently jointly supervised by Prof. Yilin Xu at SJTU, China and Prof. Le Yang at University of Canterbury, New Zealand. His research interests include adaptive streaming, video coding, reinforcement learning and cross-layer design.
+I am a PhD student at CMIC, Shanghai Jiao Tong University. He is currently jointly supervised by Prof. Yilin Xu at SJTU, China and Prof. Le Yang at University of Canterbury, New Zealand. His research interests include adaptive streaming, video coding, reinforcement learning and cross-layer design.
 {style="text-align: justify;"}
