@@ -109,32 +109,31 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2021-11-25'
+          description: '3rd Prize & Synopsys honored prize'
+          icon: 
+          organization: SocChina
+          organization_url: http://www.socchina.net
+          title: National SoC Design Competition for College Students
           url: ''
         - certificate_url: 
           date_end: ''
           date_start: '2022-01-01'
-          description: 'Excellent accomplishment for the project: Deep learning in CV'
+          description: 'Work as a team leader and get 100+ (excellent) scores on final evaluation'
           icon: course program
           organization: MIT
           organization_url: https://www.mit.edu
-          title: MIT Winter Program
+          title: MIT CV Program
           # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+        - certificate_url: 
+          date_start: '2021-12-31'
+          description: 'Ranked 1st in 209'
+          icon: scholarship
+          organization: 
+          organization_url: 
+          title: 'National Scholarship for Graduate Excellence'
           url: ''
     design:
       columns: '2'

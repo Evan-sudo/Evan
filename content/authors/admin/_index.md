@@ -54,7 +54,7 @@ skills:
         icon_pack: fab
       - name: MATLAB
         description: ''
-        percent:80
+        percent: 80
         icon: simulation
         icon_pack: fas
       - name: Chat-GPT
