@@ -59,7 +59,7 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
-# ---
+---
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
