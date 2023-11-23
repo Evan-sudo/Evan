@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘牧凡
+title: Mufan Liu
 
 # Name pronunciation (optional)
 name_pronunciation: Evan
@@ -101,5 +101,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student at CMIC, Shanghai Jiao Tong University. He is currently jointly supervised by Prof. Yilin Xu at SJTU, China and Prof. Le Yang at University of Canterbury, New Zealand. His research interests include adaptive streaming, video coding, reinforcement learning and cross-layer design.
+Hi all, my name is Mufan Liu (刘牧凡). I am a PhD student at CMIC, Shanghai Jiao Tong University. Currently I am jointly supervised by Prof. Yilin Xu at SJTU, China and Prof. Le Yang at University of Canterbury, New Zealand. My research interests include adaptive streaming, video coding, reinforcement learning and cross-layer design.
 {style="text-align: justify;"}
