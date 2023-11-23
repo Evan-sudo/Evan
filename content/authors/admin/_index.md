@@ -101,5 +101,5 @@ social:
 highlight_name: true
 ---
 
-Hi all, my name is Mufan Liu (刘牧凡). I am a PhD student at CMIC, Shanghai Jiao Tong University. Currently I am jointly supervised by Prof. Yilin Xu at SJTU, China and Prof. Le Yang at University of Canterbury, New Zealand. My research interests include adaptive streaming, video coding, reinforcement learning and cross-layer design.
+Hi all, my name is Mufan Liu (刘牧凡). I am a PhD student at CMIC, Shanghai Jiao Tong University. Currently I am jointly supervised by Prof. **[Yiling Xu](https://cmic.sjtu.edu.cn/cn/show.aspx?info_lb=75&info_id=1166&flag=35)** at SJTU🇨🇳 and Prof. Le Yang at University of Canterbury🇳🇿. My research interests include adaptive streaming, video coding, reinforcement learning and cross-layer design.
 {style="text-align: justify;"}
