@@ -4,34 +4,34 @@ title: 'An example conference paper'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors:
-  - admin
-  - Robert Ford
+# authors:
+#   - admin
+#   - Robert Ford
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# # Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-12-04'
 doi: ''
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# # Schedule page publish date (NOT publication's date).
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
 
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+# # Publication name and optional abbreviated publication name.
+# publication: In *Hugo Blox Builder Conference*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The high reliability and low latency requirements of multimedia services necessitate the design of more efficient link adaptation methods. In this paper, we introduce instantaneous channel state information (CSI) reporting, specifically designed for 5G video conferencing, and enhance the outer loop link adaptation based on soft Acknowledgement (Soft-ACK). We also formulate a resource allocation problem in 5G physical downlink shared channel (PDSCH) to balance the uplink and downlink traffic in compliance with the specified latency constraints. Our proposed scheme operates in a relatively straightforward manner. It outperforms conventional link adaptation methods regarding Block-Level Error Rate (BLER) and effectively adheres to stringent latency constraints in video transmission simulations.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We present a soft-ACK-based outer loop link adaptation scheme for 5G NR video conferencing. By leveraging instantaneous CSI reporting and soft-ACK, we have significantly reduced the overhead of channel control, allowing the traditional link adaptation mechanism to converge faster to lower BLER levels. Moreover, the formulated resource allocation problem effectively manages the downlink transmission resources while meeting stringent latency requirements, resulting in a balanced uplink and downlink traffic state. Performance simulations on the Waterloo QoE database validate the effectiveness of the proposed approach, showing a significant overhead saving (0.8% of conventional CSI-RS) in CSI reporting while ensuring the reliability requirements of video conferencing. We believe this approach can be extended to scenarios involving multi-service flows under 6G carrier aggregation, leveraging multimodal channel feedback combined with state-of-the-art AI technologies for more accurate link prediction and control.
 
 tags: []
 
@@ -45,12 +45,12 @@ featured: true
 
 url_pdf: ''
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
