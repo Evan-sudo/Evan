@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 刘牧凡
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Mufan Liu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mufan
+last_name: Liu
 
 # Status emoji
 status:
@@ -17,34 +17,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student at CMIC, SJTU
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghai Jiao Tong University
+    url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reinforcement learning, AI-based video coding, adaptive video streaming and cross layer design.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Adaptive streaming
+  - Video Coding
+  - Reinforcement learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Electrical Engineering
+      institution: Shanghai Jiao Tong University
+    - course: BSc in Communication Engineering
+      institution: Unversity of Electronic Science and Technology of China
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,20 +66,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Piano
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: Instruments
+        icon_pack: fas
+      - name: Work out
+        description: ''
+        percent: 60
+        icon: Exercise
+        icon_pack: fas
+      - name: Travel
+        description: ''
+        percent: 80
+        icon: Travel
         icon_pack: fas
 
 # Social/Academic Networking
@@ -91,30 +87,15 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Evan-sudo
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
