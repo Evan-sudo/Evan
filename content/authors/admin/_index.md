@@ -55,12 +55,12 @@ skills:
       - name: MATLAB
         description: ''
         percent:80
-        icon: 
+        icon: simulation
         icon_pack: fas
       - name: Chat-GPT
         description: ''
         percent: 100
-        icon: database
+        icon: aha
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
