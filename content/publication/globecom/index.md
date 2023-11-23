@@ -2,7 +2,7 @@
 title: "Soft-ACK based Outer Loop Link Adaptation for Latency-constrained 5G Video Conferencing"
 authors:
 - admin
-# date: "2023-12-03T00:00:00Z"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
