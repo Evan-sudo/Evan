@@ -1,5 +1,5 @@
 ---
-title: 香水测评～
+title: 关于香水👇
 date: '2023-06-30'
 summary: Journal de parfum
 ---
