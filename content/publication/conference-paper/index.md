@@ -36,7 +36,7 @@ summary: We present a soft-ACK-based outer loop link adaptation scheme for 5G NR
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
