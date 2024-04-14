@@ -25,13 +25,14 @@ organizations:
     url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforcement learning, AI-based video coding, adaptive video streaming and cross layer design.
+bio: My research interests include reinforcement learning, point cloud, 3d Gaussina, AI-based coding, adaptive video streaming and cross layer design.
 
 # Interests to show in About widget
 interests:
   - Adaptive streaming
   - Video Coding
   - Reinforcement learning
+  - 3D MM
 
 # Education to show in About widget
 education:
@@ -101,5 +102,11 @@ social:
 highlight_name: true
 ---
 
-Hi all, my name is Mufan Liu (刘牧凡). I am a PhD student at **[CMIC](https://cmic.sjtu.edu.cn/EN/Default.aspx)**, Shanghai Jiao Tong University. Currently I am jointly supervised by Prof. **[Yiling Xu](https://cmic.sjtu.edu.cn/cn/show.aspx?info_lb=75&info_id=1166&flag=35)** at SJTU🇨🇳 and Prof. **[Le Yang](https://www.canterbury.ac.nz/engineering/contact-us/people/le-yang.html)** at University of Canterbury🇳🇿. My research interests include adaptive streaming, video coding, reinforcement learning and cross-layer design.
+Hi all, my name is Mufan Liu (刘牧凡). I am a PhD student at **[CMIC](https://cmic.sjtu.edu.cn/EN/Default.aspx)**, Shanghai Jiao Tong University. I am supervised by Prof. **[Yiling Xu](https://cmic.sjtu.edu.cn/cn/show.aspx?info_lb=75&info_id=1166&flag=35)** at SJTU🇨🇳. We hold the connections to Prof. **[Le Yang](https://www.canterbury.ac.nz/engineering/contact-us/people/le-yang.html)** at University of Canterbury🇳🇿, Prof. **[Jenq-neng Hwang](https://people.ece.uw.edu/hwang/)** at University of Washington🇺🇸 and Prof. **[Zhu Li](http://l.web.umkc.edu/lizhu/)** at UMKC🇺🇸. During the day, I engage in scientific research, and in the evening, I study tarot♠️ and photography📷 (No more time for me to attend classes😆). My research interests include adaptive streaming, video coding, reinforcement learning, 3d multimedia and cross-layer design.
+
+My dream during PhD:
+Collect coupons for all sorts of interesting classes from DazhongDianping and try them all.
+Travel as much as possible.
+Hold a podcast or been invited to speak in any podcast channel.
+
 {style="text-align: justify;"}

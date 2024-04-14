@@ -1,7 +1,7 @@
 ---
-title: 关于香水👇
+title: Parfume so good👇
 date: '2023-09-30'
-summary: 嗯。气味还是蛮重要的
+summary: Fragrance delights the world.
 ---
 
 --“你个读博叻一天嗯是搞些空儿不空的嘛”
