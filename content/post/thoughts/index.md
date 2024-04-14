@@ -1,23 +1,14 @@
 ---
-title: 博1的一些小小探索
-date: '2023-11-20'
-summary: 疯狂博一有感
+title: The world feels like an enormous arena of competition.
+date: '2024-04-12'
+summary: Invest yourself no matter what.
 ---
 
-嗨！很幸运你能翻到我的流水账笔记。
+If u study at Western countries, ur given priority. 
+If u publish in top-tier conferences, ur  am given priority.
+If u earn a high salary, ur given priority. 
 
-首先这是一篇很长很口水的文章，其次，它主要讲了我博一上的一个生存经历。没有很想要表达的中心思想，同时内容可能会带有一些主观性。
-该说不说，我是一个不太会做选择的人，从小到大便有这臭毛病。在每一个人生“重大转角“，我都没有显得很有主见与想法💡。当初轻飘飘的选择保研直博以后，我便进入了大四的gap生活。虽然看似一切顺利，但不得不承认emo是我夜晚的常客（我知道如果我提退学父母最终肯定会支持我，虽然可是，怎么会有人拿到offer第二天就已经开始想退学了😆）。由于当时也并没有更好的解决方式，于是我选择了逃避这些内耗，舒坦的“摆烂”完剩余的本科时光。
-
-但我始终在告诉自己，“恐惧与慌乱”只是被自己藏起来了，“好戏”还在后面呢。
-
-果然，一眨眼到了七月，一个压的我喘不过气的月份。内心的梗塞感，莫名的伤痛，以及对任何事物都提不起任何的兴趣。Podcast堆满了缓解焦虑与抑郁的频道，很长时间都没有这样集中的哭泣过。虽然我每天都在尝试自我保护，但我深知这些东西没有办法解决我糟糕的现状。我缺的并不是能力，而是动力。于是很自然的，“如何拾回动力”成为了我博士的第一个课题。Now we will elaborate on how we can find our motivation towards PhD, but for some reason, we have to ignore some details here...lol...卖个关子。其实过程也没啥好说的，说的直白一点可能是“instead of how we find the motivation, it's more like how we are seeking for our first paper"。为什么普博比直博精神状态好很多，归根结底人家是带着paper进组了。多数国内直博同学进组时是没有paper的，no work会无限放大焦虑与内耗。虽说科研需要耐心和沉稳，但我们毕竟是正常人，正常人就是需要正反馈啊！但无work的人与有work的人交谈不论再深，我感觉是没有办法共情的hhhhh，因此唯一能做的只有加入他们。
-
-我花了一周的时间了解完了组里所有人的研究方向（因为我知道现在的自己没有办法沉住气读海量paper，交流的成本和投入度相比之下会大很多）。然后我大受启发，开启疯狂工作？Exactly wrong...随着我与组里最后一位同学的聊天结束后，这也正式标志着，我已经闲聊一周并且no work了。不过我至少还是从中获取到了一些信息，比如...至少我知道了哪些坑不太能碰了hhhhh 接下来的过程我愿称之为硬出idea,但至少从现在的我来看，当初这个决定是带来了更大的长远收益的。至于怎么硬出idea呢，套路大概也就分成两种：第一种，基于别人提出的东西进行细微改进，然后指标比赢别人。不过看起来不太适合新人，毕竟得了解former architecture才可以提出改进。那第二种，无非就是自己开新的赛道了，“裁缝怪”和“缝合怪”嘛。其实仔细一想，每年接收的paper数量上万，哪有那么多idea都可以被真正的实现。做研究发paper我觉得更多的是更够把idea贡献出来，假如有人读到受益，再迁移至其他领域，多数论文其实也就石沉大海，但假如这是你的第一篇，那么它对你本人的意义反倒是巨大的。把自己想成一个idea的贡献者，心态也许会好很多，只要有想法，不管好坏，我抱着想要分享给普罗大众的想法去把它做完并发表，也就完成了我一个research的意义了。“我就先“烂”一篇换我一个好心态再做更好的研究呗？不然我一直得不到正反馈你还期望我做出更好的work出来咩“ 。有了上述的思考，我先把狂卷idea搁置了一下。并且评估了博一上我应该投什么会议，DDL多久，以及会议的论文结构大概前人都是怎样写的。这里我倒是狠狠做了一些功夫，甚至可以说，此时的我已经想好怎么去写这一篇paper了（实验还没做啊喂），实验就等着我后续进行完形填空也就完事了。那么这些计划好以后，我们再来根据论文的篇幅决定需要去想一个多大的idea(大了浪费，小了be quit)。这些归根结底都是“分寸感”的问题，人的自信和底气都是建立在“分寸感”之上的。能正确认识自己，才能做更对的事哇。
-
-扯回来我有了一篇论文的structure，刚好一次外出开会的机会听了一个老师做学术报告分享，我猛然一想，这个老师做的东西是可以拿过来进行一个小小建模的。细细思考，工作量刚好够十二月的会议。这下可好了，是真的大受启发，疯狂工作吧。初生牛犊不怕虎，我拿着自己写的蹩脚的problem formulation鼓起勇气找到了导师交流自己的想法。没想到老师挺高兴，并且还指派新西兰的小老师对我后续工作进行指导。这位老师是很有idea的，毕竟现在已经转到纯理论方向了。第一次聊天发现老师四川人，而且很接地气，我们聊的蛮投机，四个小时就这样过去了。这次聊天属实给了我更多的信心和勇气，并且在这个过程中，我也发现本科的工作并不是与现在方向没有任何联系，这种交叉方向依然值得拓展，并且它是比较make sense的。这也就意味着，即便我想到的新思路不一定work，老的工作还能保底一下，于是我又大受鼓舞，写完了problem formulation，这次在数学上和老师的交流更加深刻了，也让我有了更大的底气。那么说到这里其实一切都已经开始好转了。看起来idea还是偶然获得，但我更觉得它就是一种必然。最近看到manifesting这个词，有点类似心理暗示。但我觉得并不是没有道理，毕竟机会都是留给有准备的人。我是因为下定决定要在博1出一篇论文，才会去进行一些论文的布局，有了这些布局才让我主动的结交老师获得外出交流机会。也是因为心里有一个规划，所以在会议上idea strike到我的那一刻，我可以稳稳的接下。所有一切的一切，其实都是必然。后来组里的学姐看到我有想做research的势头，于是某日交流的时候抛给我一个当初的“历史遗留问题”，我听完感觉又能做了，最后决定和组里毕设学弟一起研究。另外，之后也有了一次和UW fellow的交流，这次交流其实对于我们组来说就是一次regular talk，但我刻意精心准备了一下，并且思考了老师可能会问到的问题，于是也给老师留下不错的印象，并且给到了我下一个阶段更能做的extensive idea。顷刻间，我好像被idea给包围了，规划的工作也能被排的很远很远了。针对特定工作的知识学习也变得有动力起来，填补了我博1还没上过一次课的空虚。
-
-那么我们再从overall回溯一下，我最初的想法是，博1不上课，挑一个最简单的方向，找就近的会议赶紧“水”个论文。客观上我们评价这个想法就是：短浅，浮躁，功利心强，不够“沉淀”。别人可能会说：你一个博1的搞什么论文，好好上课去，后面时间还很多。但我想的却是：我一个没有work的人，每天上着知识大杂烩，闲暇时间也挤不出来时间科研，第一步都半天走不出去，你让我怎么沉下心来？我承认这个想法是“俗”的，但是一旦确定了我会在博一某时某刻发表一个什么样的工作，似乎心里就会安稳很多，也有了很强的motivation。为此你不可否认的需要去social更多的人，需要更多的交流，并且探索到获得更多idea的可能性。一旦有了idea，我们便对未来有了期待，那么不确定性产生的内耗也就不存在了。整个过程因此正向循环起来。至于我为什么当初在毫无想法的时候就那么肯定自己博一一定可以发出去一篇呢，我还是希望归咎于manifesting。我一直在暗示自己本来就不是适合做选择的人，但是很适合把选好的路“铺平”。既然自己本来就不是那种很会“获取情报”并试图解出最优选择的人，何必又要怪罪自己呢。直博这条路，我觉得真正能选对的人应该很少吧，本质上还是一个match问题。如果一开始因为未知迷茫，为何不苦逼自己一把，在博一先走完自己的第一篇paper呢。要是我博一发现我是真发不出去，那好，quit也算一个最小沉默成本解。假如努力出来了，那么在这个过程我定会建立起对自己更清晰的认识，并且也能收获更多的connections与ideas，后续的发表难度可能真的会呈指数级下降。试想我当初并没有那么强烈的博1发论文意愿，那我唯一能做的可能就是认真上课，但结果发现在上课方面相比于交大本科学生几乎没有任何优势，于是闲暇时刻再努力摸索未来可做的方向，但因为没有足够的思考，也不太敢和不同老师social讨论idea。最后成为自己眼中那个上课摆烂，研究毫无进展，还拿着微薄补贴的土博，退学心理加重。反之，有了idea以后(万一没有？你就大四和入组前这么长的时间，专门去卷一个idea出来，我感觉应该也不是做不到的事情)，首先我心中真的会有已经有一篇的感觉（manifesting x3）。和老师交流也理直气壮起来，因此收获了更多connections，虽然仍是“土博”，理论上其实是在被海外的老师remote。这样一想，精神状态确实有好很多。
-
-说到这里不禁感慨，我虽然很不会做选择，但是每一次经历开头的痛苦之后，都会给我一种柳暗花明的感觉。从小到大父母一直都在身边给我强调这种感觉，他们总说我开头终归会让他们“遭难一下”，但他们从不担心“后来的事”。久而久之，我接受了这种manifesting。所以当时暑假的我知道自己很烂，但坚信冬天的我会游刃有余的坐在这里分享自己的“博一生存指南”。大家都喜欢夸大“选择”的重要性，诚然它很重要，但是我觉得一个选择永远都会有trade-off的问题。你所谓的内耗只不过因为总喜欢站在劣势的一面去看待自己的选择。所以与其内耗纠结一个既定的事实，不如充满自信做内心渴望成为的那个人。当manifest多次以后，回过头看，就会发现，曾经势在必得的东西自己全都有了！
-
+People are reluctant to acknowledge their envy or admit to bad luck; hence, they often curate a glamorous persona online, opting to sell anxiety rather than cease the relentless comparisons. However, during my PhD studies, I have also come to recognize a different perspective. 
+Domestic universities do boast groups that rival or surpass those in the West. Also, even if a paper isn’t published in a top conference, the work can still be solid. Similarly, my sister, with her average income, continues to inspire me with the richness of her life. 
+Luck and merit should always be seen as separate entities. While good fortune is undoubtedly beneficial, relying on it to assert one's priority only mires the competitive world further. True capability might be temporarily obscured by luck, but it will not be forever forsaken by the world.
+Life is already too short, so why should I internalize struggles over the fortunes of others, over realities I cannot change? Instead, I choose to focus on myself. Continually investing in my personal growth allows me to see beyond the exaggerations and the noise. No matter how fervent the competition becomes, I refuse to let it undermine my own abilities.
