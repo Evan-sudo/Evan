@@ -106,10 +106,10 @@ Hi all, my name is Mufan Liu (刘牧凡). I am a PhD student at **[CMIC](https:/
 
 My dreams during PhD:
 
-Collect coupons for all sorts of interesting classes from DazhongDianping and try them all.
+🌟Collect coupons for all sorts of interesting classes from DazhongDianping and try them all.
 
-Travel as much as possible.
+🌟Travel as much as possible.
 
-Hold a podcast or been invited to speak in any podcast channel.
+🌟Hold a podcast or been invited to speak in any podcast channel.
 
 {style="text-align: justify;"}
