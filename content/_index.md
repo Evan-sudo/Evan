@@ -129,11 +129,11 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2023-06-30'
-          description: 'Merit Undergraduate of Sichuan Province'
+          description: Undergraduate GPA: 3.95/4.00
           icon: 
           organization: UESTC
-          organization_url: 
-          title: MIT CV Program
+          organization_url: Merit Undergraduate of Sichuan Province
+          title:
           # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: 
           date_start: '2021-12-31'
