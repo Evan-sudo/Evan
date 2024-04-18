@@ -121,10 +121,18 @@ sections:
         - certificate_url: 
           date_end: ''
           date_start: '2022-01-01'
-          description: 'Work as a team leader and get 100+ (excellent) scores on final evaluation'
+          description: '100+ (Excellent)'
           icon: course program
           organization: MIT
           organization_url: https://www.mit.edu
+          title: MIT CV Program
+        - certificate_url: 
+          date_end: ''
+          date_start: '2023-06-30'
+          description: 'Merit Undergraduate of Sichuan Province'
+          icon: 
+          organization: UESTC
+          organization_url: 
           title: MIT CV Program
           # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: 
@@ -133,7 +141,7 @@ sections:
           icon: scholarship
           organization: 
           organization_url: 
-          title: 'National Scholarship for Graduate Excellence'
+          title: 'National Scholarship'
           url: ''
     design:
       columns: '2'
