@@ -132,8 +132,8 @@ sections:
           description: Undergraduate GPA: 3.95/4.00
           icon: 
           organization: UESTC
-          organization_url: Merit Undergraduate of Sichuan Province
-          title:
+          organization_url: 
+          title: 'Merit Undergraduate of Sichuan Province'
           # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: 
           date_start: '2021-12-31'
