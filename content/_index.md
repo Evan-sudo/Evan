@@ -142,8 +142,6 @@ sections:
           organization: UESTC
           organization_url: 
           title: 'Merit Undergraduate of Sichuan Province'
-          # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-
     design:
       columns: '2'
   - block: collection
