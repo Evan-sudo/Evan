@@ -134,6 +134,14 @@ sections:
           organization: MIT
           organization_url: https://www.mit.edu
           title: MIT CV Program
+        - certificate_url: 
+          date_end: ''
+          date_start: '2023-06-30'
+          description: 'Overall GPA: 3.95/4.00'
+          icon: 
+          organization: UESTC
+          organization_url: 
+          title: Merit undergraduate of Sichuan province       
         # - certificate_url: 
         #   date_end: ''
         #   date_start: '2023-06-30'
