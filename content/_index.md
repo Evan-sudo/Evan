@@ -119,6 +119,14 @@ sections:
           title: National SoC Design Competition for College Students
           url: ''
         - certificate_url: 
+          date_start: '2021-12-31'
+          description: 'Ranked 1st in 209'
+          icon: scholarship
+          organization: 
+          organization_url: 
+          title: 'National Scholarship'
+          url: ''
+        - certificate_url: 
           date_end: ''
           date_start: '2022-01-01'
           description: '100+ (Excellent)'
@@ -135,14 +143,7 @@ sections:
           organization_url: 
           title: 'Merit Undergraduate of Sichuan Province'
           # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: 
-          date_start: '2021-12-31'
-          description: 'Ranked 1st in 209'
-          icon: scholarship
-          organization: 
-          organization_url: 
-          title: 'National Scholarship'
-          url: ''
+
     design:
       columns: '2'
   - block: collection
